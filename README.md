@@ -1,6 +1,5 @@
-# NFT-ID
-
-Verify your identity with an NFT on Solana. First, connect your wallet (e.g. Phantom). Then, connect a social account (GitHub and Twitter are already supported). Finally, mint your soulbound NFT-ID. You're now verified! ✅
+# Alfazero
+Governance in a decentralized world plays a big role in defining the roadmaps as well as the direction of the protocol. Big whales with big voting power can incluence the future of the protocol which might not be favorable for small token holder. We combine the power of NFT to voting by giving small stakeholder voters weighted advantage. Small token holders who vote consistently in the winning proposal will be able to unlock new categories of NFTs giving them more voting power. This will give small token holders a chance to compete with big whales in the governance process. ✅
 
 ## Demo
 
