@@ -3,7 +3,7 @@ Governance in a decentralized world plays a big role in defining the roadmaps as
 
 ## Demo
 
-We're live on [https://nft-id.vercel.app/](https://nft-id.vercel.app/)! 🎉
+We're live on alfazero.vercel.app! 🎉
 
 ## Usage
 
