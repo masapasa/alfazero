@@ -11,14 +11,14 @@ import { SessionProvider } from "next-auth/react";
 require("@solana/wallet-adapter-react-ui/styles.css");
 require("../styles/globals.css");
 
-const App: FC<AppProps<{ session: any }>> = ({
+const App: FC<AppProps> = ({
   Component,
   pageProps: { session, ...pageProps },
 }) => {
   return (
     <>
       <Head>
-        <title>NFT-ID</title>
+        <title>Solana Scaffold Lite</title>
       </Head>
 
       <ContextProvider>
